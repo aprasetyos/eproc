@@ -15,3 +15,4 @@ mempunyai beberapa modul:
 9. Laporan Request
 10. Laporam Purchase Order
 11. Laporan Pembayaran
+12. Logout
