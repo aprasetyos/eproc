@@ -1,0 +1,17 @@
+Project tugas akhir menggunakan GitHub
+
+Pembuatan web application procurment / purchasing menggunakan php dengan framework Codeigniter 4
+
+mempunyai beberapa modul:
+
+1. Login 
+2. User management
+3. Tabel Produk
+4. Tabel Supplier
+5. Transaksi Request Order
+6. Transaksi Penawaran
+7. Transaksi Purchase Order
+8. Transaksi Payment / Finance
+9. Laporan Request
+10. Laporam Purchase Order
+11. Laporan Pembayaran
