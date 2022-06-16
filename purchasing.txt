@@ -6,13 +6,14 @@ mempunyai beberapa modul:
 
 1. Login 
 2. User management
-3. Tabel Produk
-4. Tabel Supplier
-5. Transaksi Request Order
-6. Transaksi Penawaran
-7. Transaksi Purchase Order
-8. Transaksi Payment / Finance
-9. Laporan Request
-10. Laporam Purchase Order
-11. Laporan Pembayaran
-12. Logout
+3. Tabel Parameter
+4. Tabel Produk
+5. Tabel Supplier
+6. Transaksi Request Order
+7. Transaksi Penawaran
+8. Transaksi Purchase Order
+9. Transaksi Payment / Finance
+10. Laporan Request
+11. Laporam Purchase Order
+12. Laporan Pembayaran
+13. Logout
